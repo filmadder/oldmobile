@@ -18,6 +18,7 @@ git clone filmadder/mobile
 cd mobile
 ln -s /path/to/filmadder/webapp/build www
 npm install
+cordova platform add android
 ```
 
 Please note that you need film adder's webapp source code; you can either
