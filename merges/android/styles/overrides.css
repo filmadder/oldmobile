@@ -1,0 +1,6 @@
+@media (max-width: 960px) {
+	.film-view .primary-container {
+		height: 450px;
+		height: calc(100vh - 80px);
+	}
+}
