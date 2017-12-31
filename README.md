@@ -1,6 +1,6 @@
-# film adder: the mobile app(s)
+# filmadder: the mobile app(s)
 
-The [Apache Cordova][ac] setup used to build [film adder][fa]'s mobile app for
+The [Apache Cordova][ac] setup used to build [filmadder][fa]'s mobile app for
 Android.
 
 
@@ -21,9 +21,9 @@ npm install
 cordova platform add android
 ```
 
-Please note that you need film adder's webapp source code; you can either
-symlink it (as suggested in the snippet above) or copy it into the `www` dir,
-depending on what exactl you want to do.
+Please note that you need filmadder's webapp source code; you can either symlink
+it (as suggested in the snippet above) or copy it into the `www` dir, depending
+on what exactl you want to do.
 
 
 ## development
